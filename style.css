@@ -108,7 +108,7 @@ h1{
 
 div .top{
   margin-block: 20px;
-  margin-inline: 20px;
+  margin-inline: 10px;
   display: flex;
   justify-content: space-between;
 }
